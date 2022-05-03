@@ -1,3 +1,3 @@
 # SwiftStuff
 
-A description of this package.
+A collection of stuff I've written and found in Swift over the years.
